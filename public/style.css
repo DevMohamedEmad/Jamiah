@@ -1,0 +1,109 @@
+body{
+    font-family: 'Cairo', sans-serif;
+    background-color: #fafafa;
+}
+.navbar{
+    padding-bottom: 10px;
+    background: linear-gradient(45deg,#4099ff,#034188);
+}
+.btn{
+    background-color: #025287;
+    color: white;
+
+}
+.nav-link{
+    font-size: 24px;
+}
+.c1{
+    background-color: rgb(245, 245, 245);
+    border: 2px solid rgb(245, 245, 245);
+    border-radius: 8px;
+    padding: 5px;
+}
+.fo{
+    background-color: #fff;
+    border: 2px solid #fff;
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.ch1{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+a:link
+{
+text-decoration: none;
+}
+a:visited
+{
+text-decoration: none;
+}
+a:active
+{
+text-decoration: none;
+}
+a:hover
+{
+text-decoration: none;
+}
+a.forumlink:hover
+{
+text-decoration:none;
+}
+
+.order-card {
+    color: #fff;
+}
+
+.bg-c-blue {
+    background: linear-gradient(45deg,#4099ff,#034188);
+}
+
+.bg-c-green {
+    background: linear-gradient(45deg,#2ed8b6,#04997b);
+}
+
+.bg-c-yellow {
+    background: linear-gradient(45deg,#FFB64D,#ffcb80);
+}
+
+.bg-c-pink {
+    background: linear-gradient(45deg,#FF5370,#ff869a);
+}
+.bg-c-red {
+    background: linear-gradient(45deg,#f30029,#910119);
+}
+.bg-c-accept {
+    background: linear-gradient(45deg,#4a00b0,#4e33ff);
+}
+
+
+.card {
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    border: none;
+    margin-bottom: 30px;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.card .card-block {
+    padding: 25px;
+}
+
+.order-card i {
+    font-size: 26px;
+}
+
+.f-left {
+    float: left;
+}
+
+.f-right {
+    float: right;
+}
+.btn2{
+    background-color: red;
+    color: white;
+}
